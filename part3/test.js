@@ -1,11 +1,5 @@
 var expect = require('chai').expect
-
-try{
-  var solution = require('./solution')
-}catch(error){
-  console.log('error?', error)
-}
-
+var solution = require('./solution')
 
 describe('solution', function(){
   it('works for a static case', function(){

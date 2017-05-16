@@ -17,7 +17,9 @@ var myPet = {
 
 
 
-desired answer:
+## AUTHORS NOTES DELETE ME
+
+### Solution
 
 ```
 myPet.type
